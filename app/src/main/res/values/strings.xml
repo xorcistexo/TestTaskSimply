@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TestTaskSimply</string>
+
+    // Dialog Region Start
+    <string name="label_dialog_unlock_body">Please confirm that you want to unlock the door of</string>
+    <string name="label_dialog_lock_body">Please confirm that you want to lock the door of</string>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="action_lock">Yes, Lock</string>
+    <string name="action_unlock">Yes, UnLock</string>
+    // Dialog Region End
+
+    //Home Region Start
+    <string name="label_miles">mi</string>
+    <string name="label_my">My</string>
+    <string name="label_updated_time">updated %s min ago</string>
+
+    //doors
+    <string name="label_doors">Doors</string>
+    <string name="label_locked">Locked</string>
+    <string name="label_unlocked">UnLocked</string>
+    <string name="label_wait">…</string>
+
+    //engine
+    <string name="label_engine">Engine</string>
+    <string name="action_engine_start">Start</string>
+    <string name="action_engine_stop">Stop</string>
+    //Home Region End
+</resources>
